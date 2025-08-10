@@ -1,7 +1,3 @@
-# Aakash_Ravi-Portfolio
-
-# Hi, I'm Aakash 👋
-
 I am a **Data Analyst** passionate about turning data into actionable insights.  
 I work with **Python, SQL, Tableau, and Power BI** to uncover trends and help businesses make data-driven decisions.
 
