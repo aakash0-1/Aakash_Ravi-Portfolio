@@ -27,5 +27,5 @@ Applied K-Means clustering in Python to identify customer segments for targeted 
 
 ## 📫 Contact
 - **Email:** aakashravi.28@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/aakshravi](https://www.linkedin.com/in/aakashravi28)  
+- **GitHub:** [github.com/aakashravi](https://github.com/aakash0-1)
